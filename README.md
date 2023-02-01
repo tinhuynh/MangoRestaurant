@@ -1,2 +1,2 @@
 # MangoRestaurant
-In this practice project, I demonstrate the use of Microservices architecture with .NET 6.
+This project demonstrates the use of Microservices architecture with .NET 6.
